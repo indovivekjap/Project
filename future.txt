@@ -1,0 +1,20 @@
+Stage 1 ->
+Capture Camera feed firectly from system and operate on same image by giving user an option to choose either.
+Make use of Object detection to find the type of detected object(s)
+Feature detection (Face, eyes, hands) - [
+	[Confirmed]
+	1 -> Incorrect vehicle type on designated lanes section (Number plate/Face detection)
+	[Not confirmed]
+	2 -> Disablities required? - Special privilage {Blind - }
+	3 -> 
+]
+
+Stage 2 ->
+Make use of pytorch to increase animation image operations more accurate.
+Change Image extension type. (Ask users to save the file in which format)
+Start Operations on Videos - Both user and Camera based.
+
+Stage 3 ->
+Add Robust user handling system.
+Monetary Security payments and robust concurrent transaction for paid services.
+Retrieve blurred old images into Black_White and Color images using pytorch and mediapipe

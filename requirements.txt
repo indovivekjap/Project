@@ -1,0 +1,5 @@
+streamlit_image_comparison
+streamlit_option_menu
+opencv-python-headless
+mediapipe
+streamlit_authenticator
